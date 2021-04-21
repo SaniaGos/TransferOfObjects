@@ -33,7 +33,7 @@ namespace ClassLib
                 {
                     PC pc = new PC();
                     string newPath = path.Replace("*", Convert.ToString(1 + i));
-                    using (StreamReader writer = new StreamReader(newPath))
+                    using (StreamReader writer = new StreamReader(newPath, Encoding.UTF8))
                     {
                         pc.Brand = writer.ReadLine().Split(':')[1];
                         pc.Type = writer.ReadLine().Split(':')[1];
