@@ -1,0 +1,10 @@
+C:\Users\SaniaGos\source\repos\Transfer\DeserializConsolApp\bin\Debug\DeserializConsolApp.exe.config
+C:\Users\SaniaGos\source\repos\Transfer\DeserializConsolApp\bin\Debug\DeserializConsolApp.exe
+C:\Users\SaniaGos\source\repos\Transfer\DeserializConsolApp\bin\Debug\DeserializConsolApp.pdb
+C:\Users\SaniaGos\source\repos\Transfer\DeserializConsolApp\bin\Debug\ClassLib.dll
+C:\Users\SaniaGos\source\repos\Transfer\DeserializConsolApp\bin\Debug\ClassLib.pdb
+C:\Users\SaniaGos\source\repos\Transfer\DeserializConsolApp\obj\Debug\DeserializConsolApp.csprojAssemblyReference.cache
+C:\Users\SaniaGos\source\repos\Transfer\DeserializConsolApp\obj\Debug\DeserializConsolApp.csproj.CoreCompileInputs.cache
+C:\Users\SaniaGos\source\repos\Transfer\DeserializConsolApp\obj\Debug\DeserializConsolApp.csproj.CopyComplete
+C:\Users\SaniaGos\source\repos\Transfer\DeserializConsolApp\obj\Debug\DeserializConsolApp.exe
+C:\Users\SaniaGos\source\repos\Transfer\DeserializConsolApp\obj\Debug\DeserializConsolApp.pdb

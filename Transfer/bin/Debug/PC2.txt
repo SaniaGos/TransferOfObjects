@@ -1,0 +1,3 @@
+﻿Brand:HP
+Type:Home
+SN:SN015

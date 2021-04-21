@@ -1,0 +1,6 @@
+C:\Users\SaniaGos\source\repos\Transfer\ClassLib\bin\Debug\ClassLib.dll
+C:\Users\SaniaGos\source\repos\Transfer\ClassLib\bin\Debug\ClassLib.pdb
+C:\Users\SaniaGos\source\repos\Transfer\ClassLib\obj\Debug\ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\SaniaGos\source\repos\Transfer\ClassLib\obj\Debug\ClassLib.dll
+C:\Users\SaniaGos\source\repos\Transfer\ClassLib\obj\Debug\ClassLib.pdb
+C:\Users\SaniaGos\source\repos\Transfer\ClassLib\obj\Debug\ClassLib.csprojAssemblyReference.cache

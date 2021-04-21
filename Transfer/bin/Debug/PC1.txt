@@ -1,0 +1,3 @@
+﻿Brand:Asus
+Type:Game
+SN:SN005

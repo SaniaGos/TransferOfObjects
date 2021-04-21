@@ -1,0 +1,3 @@
+﻿Brand:Intel
+Type:Office
+SN:SN022

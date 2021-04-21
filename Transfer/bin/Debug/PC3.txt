@@ -1,0 +1,3 @@
+﻿Brand:Dell
+Type:Office
+SN:SN105

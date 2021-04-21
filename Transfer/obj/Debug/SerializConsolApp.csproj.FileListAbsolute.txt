@@ -1,0 +1,10 @@
+C:\Users\SaniaGos\source\repos\Transfer\Transfer\obj\Debug\SerializConsolApp.csproj.CoreCompileInputs.cache
+C:\Users\SaniaGos\source\repos\Transfer\Transfer\bin\Debug\ClassLib.dll
+C:\Users\SaniaGos\source\repos\Transfer\Transfer\bin\Debug\ClassLib.pdb
+C:\Users\SaniaGos\source\repos\Transfer\Transfer\obj\Debug\SerializConsolApp.csprojAssemblyReference.cache
+C:\Users\SaniaGos\source\repos\Transfer\Transfer\obj\Debug\SerializConsolApp.csproj.CopyComplete
+C:\Users\SaniaGos\source\repos\Transfer\Transfer\bin\Debug\Serialize.exe.config
+C:\Users\SaniaGos\source\repos\Transfer\Transfer\bin\Debug\Serialize.exe
+C:\Users\SaniaGos\source\repos\Transfer\Transfer\bin\Debug\Serialize.pdb
+C:\Users\SaniaGos\source\repos\Transfer\Transfer\obj\Debug\Serialize.exe
+C:\Users\SaniaGos\source\repos\Transfer\Transfer\obj\Debug\Serialize.pdb
